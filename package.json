@@ -1,11 +1,11 @@
 {
-  "name": "Queen_Anju",
-  "version": "4",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
-  "main": "queen.js",
+  "name": "Oshada_Md",
+  "version": "1",
+  "description": "A Simple WhatsApp bot created By King-Oshada",
+  "main": "oshada.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
+    "start": "pm2 start oshada.js --deep-monitoring --attach --name Oshada_Md",
+    "stop": "pm2 stop oshada_Md",
     "restart": "pm2 restart Queen_Anju"
   },
   "dependencies": {
