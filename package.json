@@ -6,7 +6,7 @@
   "scripts": {
     "start": "pm2 start oshada.js --deep-monitoring --attach --name Oshada_Md",
     "stop": "pm2 stop oshada_Md",
-    "restart": "pm2 restart Queen_Anju"
+    "restart": "pm2 restart oshada_md"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
